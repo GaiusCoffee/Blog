@@ -1,8 +1,7 @@
 ---
 title:  "Open Beta Announced!"
 date:   2016-02-27 18:00:00
-categories: [news]
-tags: [open beta]
+tags: [news, open beta]
 ---
 <img src='{{ "images/posts/ToS_OBT.jpg" | prepend: site.url }}'
   style='max-width:100%;'/>
