@@ -1,10 +1,10 @@
 # Site settings
 title: "Aldebaran"
 description: "GaiusCoffee's Tree of Savior Blog" 
-url: 'http://gaius.coffee/blog'
-baseurl: '/blog/'
+url: 'http://gaius.coffee/'
+baseurl: 'blog/'
 # google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+disqus_shortname: 'gaiuscoffee'
 
 author:
   name: 'Erik Gaius Capistrano'
