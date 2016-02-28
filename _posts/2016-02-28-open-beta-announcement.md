@@ -15,7 +15,7 @@ Testing of their game. :tada::tada::tada:
 The game was made by Kim Hakkyu, the creator of Ragnarok Online, and is considered by most 
 fans as the spiritual successor of the massively popular game. The game had a couple of 
 very successful Closed Beta Testing that ended on December last year, with a total of more
-than 300,000 registrations total for it's two tests.
+than 300,000 registrations for it's two tests.
 
 Unfortunately, the exact date of the Open Beta, as well as the game's release date, are 
 both unconfirmed.
