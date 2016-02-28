@@ -4,9 +4,10 @@ date:   2016-02-27 18:00:00
 categories: [news]
 tags: [news, open beta]
 ---
-Tree of Savior is almost here!
-<img src='{{ "images/posts/ToS_OBT.jpg" | prepend: site.baseurl }}'
+<img src='{{ "images/posts/ToS_OBT.jpg" | prepend: site.url }}'
   style='max-width:100%;'/>
+
+#### Tree of Savior is almost here!
 
 [Tree of Savior](https://treeofsavior.com/), a Massively Multiplayer Online RPG developed 
 by IMC Games, has recently announced that they will soon be starting the Open Beta 

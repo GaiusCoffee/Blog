@@ -18,7 +18,8 @@ $(document).ready(function () {
     $('.panel-cover').addClass('panel-cover--collapsed')
   }
 
-  if (window.location.pathname !== '{{ site.baseurl }}' && window.location.pathname !== '{{ site.baseurl }}index.html') {
+  if (window.location.href !== '{{ site.url }}' && 
+      window.location.href !== '{{ site.url }}index.html') {
     $('.panel-cover').addClass('panel-cover--collapsed')
   }
 

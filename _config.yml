@@ -1,8 +1,8 @@
 # Site settings
 title: "Aldebaran"
 description: "GaiusCoffee's Tree of Savior Blog" 
-url: 'http://gaius.coffee/'
-baseurl: 'blog/'
+url: 'http://gaius.coffee/blog/'
+# baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 disqus_shortname: 'gaiuscoffee'
 
